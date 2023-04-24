@@ -1,4 +1,8 @@
 # DatabaseProject-Dental_Clinic
+
+A dental practice database was designed and implemented by utilizing the entity-relationship model and SQL scripting. The business rules were analyzed and translated into a relational schema, and stored procedures were developed to ensure data integrity and automate business processes such as adding new patient and appointments, generating bills, and updating patient records. The system enables patients to request appointments, and make payments. The database also supports referrals to specialists and the tracking of treatment histories for each patient.
+
+
  In this project we present the scripts for the construction of the database,
  from the creation of tables and the insertion of data.
  There are also typical queries in each step and searching for information for each type of table.
