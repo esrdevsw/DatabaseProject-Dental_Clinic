@@ -1,5 +1,5 @@
 # DatabaseProject-Dental_Clinic
- In this document we present the scripts for the construction of the database,
+ In this project we present the scripts for the construction of the database,
  from the creation of tables and the insertion of data.
  There are also typical queries in each step and searching for information for each type of table.
 
