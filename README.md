@@ -22,3 +22,5 @@
     MAKE_PAYMENT ------>> The record of payments made is generated based on the bill ID, patient ID and the amount
                           to be paid. The procedure updates the amounts that the customer is paying from the
                           Bill and its payment status, thus enabling a control of small payments for the same Bill.
+
+![image](https://user-images.githubusercontent.com/21969268/233992970-0da94bd3-fe03-4714-be30-3879b6a61c8b.png)
